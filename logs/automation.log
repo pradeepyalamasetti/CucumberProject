@@ -1,0 +1,22 @@
+16:51:22.505 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:51:22.555 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:51:23.475 [AsyncHttpClient-1-7] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+16:51:26.482 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+16:51:26.982 [main] INFO  stepDefinitions.steps - Clicked on Login 
+16:51:27.020 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:51:27.022 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:51:27.024 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:51:27.046 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+16:51:27.814 [AsyncHttpClient-1-2] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+08:55:45.974 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+08:55:46.335 [main] INFO  stepDefinitions.steps - Clicked on Login 
+08:55:46.566 [main] INFO  stepDefinitions.steps - Provided Email 
+08:55:46.703 [main] INFO  stepDefinitions.steps - Provided Password 
+08:55:47.099 [main] INFO  stepDefinitions.steps - Clicked on Login button
+08:55:47.178 [main] INFO  stepDefinitions.steps - Login Success 
+09:04:07.434 [main] INFO  stepDefinitions.steps - Clicked on My Account 
+09:04:07.791 [main] INFO  stepDefinitions.steps - Clicked on Login 
+09:04:08.009 [main] INFO  stepDefinitions.steps - Provided Email 
+09:04:08.167 [main] INFO  stepDefinitions.steps - Provided Password 
+09:04:08.526 [main] INFO  stepDefinitions.steps - Clicked on Login button
+09:04:08.695 [main] INFO  stepDefinitions.steps - Login Success 
